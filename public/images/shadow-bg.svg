@@ -1,0 +1,27 @@
+<svg width="1068" height="445" viewBox="0 0 1068 445" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_185_18" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1068" height="445">
+<rect width="1068" height="445" fill="white"/>
+</mask>
+<g mask="url(#mask0_185_18)">
+<mask id="mask1_185_18" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-852" y="-1" width="1920" height="448">
+<rect x="-852" y="-1" width="1920" height="448" fill="white"/>
+</mask>
+<g mask="url(#mask1_185_18)">
+<g opacity="0.07" filter="url(#filter0_f_185_18)">
+<rect x="1537.79" y="-536" width="1067.75" height="1067.75" transform="rotate(67.4043 1537.79 -536)" fill="url(#paint0_linear_185_18)"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_185_18" x="-15.8991" y="-1103.9" width="2531.84" height="2531.84" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="283.949" result="effect1_foregroundBlur_185_18"/>
+</filter>
+<linearGradient id="paint0_linear_185_18" x1="2725.44" y1="-536" x2="1370.19" y2="458.502" gradientUnits="userSpaceOnUse">
+<stop offset="0.204811" stop-color="#37AAFE"/>
+<stop offset="0.475088" stop-color="#3C63FF"/>
+<stop offset="0.763688" stop-color="#11ABBE"/>
+</linearGradient>
+</defs>
+</svg>

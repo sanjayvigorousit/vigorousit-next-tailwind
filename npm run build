@@ -1,0 +1,11 @@
+npm run build
+npm run prod
+
+git config  user.name "moondragon04"
+git config  user.email "moondragon04"
+
+git add .
+git commit -m
+git push origin master
+Username :----   moondragon04
+Token :----      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
